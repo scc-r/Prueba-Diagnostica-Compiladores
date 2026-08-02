@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+entero main() {
+    entero contador = 0;
+    flotante nota_final = 15.5;
+
+    // Evaluacion de notas
+    si (nota_final >= 10.0) {
+        mientras (contador < 3) {
+            printf("Aprobado\n");
+            contador++;
+        }
+        retornar 1;
+    } sino {
+        retornar 0;
+    }
+}

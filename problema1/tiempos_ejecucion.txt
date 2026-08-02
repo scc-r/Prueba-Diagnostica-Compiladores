@@ -1,0 +1,3 @@
+JavaScript (Node.js) - Tiempo para generar Pascal (n=4): 0.000086 segundos
+JavaaScript (Node.js) - Tiempo para generar Pascal (n=100): 0.000525 segundos
+Python - Tiempo para generar Pascal (n=100): 0.000444 segundos
