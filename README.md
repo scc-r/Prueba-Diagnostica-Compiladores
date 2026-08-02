@@ -70,6 +70,6 @@ Acceda a la carpeta del traductor e inserte las sentencias de código C deseadas
 
 De acuerdo con las normativas técnicas e institucionales dispuestas en los lineamientos de evaluación, la defensa argumentada de estas soluciones y la demostración práctica de las competencias alcanzadas puede ser auditada en el siguiente enlace:
 
-🔴 **Enlace a la Defensa en YouTube:** [Inserta aquí el enlace de tu video de YouTube cuando lo subas]
+🔴 **Enlace a la Defensa en YouTube:** https://youtu.be/yC8P2c68DDA
 
 *Nota: El material cuenta con una orientación horizontal y respeta la restricción estricta de una duración máxima de 20 minutos.*
